@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputerCraftScipterApp", "ComputerCraftScipterApp\ComputerCraftScipterApp.csproj", "{02258005-F8EC-436E-B974-C8F960C32890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02258005-F8EC-436E-B974-C8F960C32890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02258005-F8EC-436E-B974-C8F960C32890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02258005-F8EC-436E-B974-C8F960C32890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02258005-F8EC-436E-B974-C8F960C32890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D14FA35D-A30C-4295-B68E-09FE89CFB08A}
+	EndGlobalSection
+EndGlobal
